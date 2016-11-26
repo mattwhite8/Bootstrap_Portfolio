@@ -1627,7 +1627,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
-  max-width: 960px;
+  /*max-width: 960px;*/
   flex: 1;
 
 }
