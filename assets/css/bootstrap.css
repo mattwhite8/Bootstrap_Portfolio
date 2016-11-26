@@ -7091,14 +7091,6 @@ h3, .sidebar h2 {
   margin-top: 3%;
 }
 
-.work-border:nth-child(odd) {
-  margin-left: 5px;
-}
-
-/*.work-border:nth-child(even) {
-  margin-left: 5px;
-}*/
-
 .work-border img {
   width: 100%;
   border: 0 none;
@@ -7118,4 +7110,14 @@ h3, .sidebar h2 {
   margin-bottom: 0;
   font-weight: 300;
   font-size: 17px;
+}
+
+.form-reset {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.label-padding {
+  padding-right: 5px;
 }
